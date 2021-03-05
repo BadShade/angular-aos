@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+
+.div-text{
+  width: 50%;
+}
+.div-img{
+  width: 50%;
+  background-image: url("~src/assets/img/squelette.jpg");
+}
